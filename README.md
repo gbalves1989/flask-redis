@@ -1,6 +1,6 @@
 # flask-redis
 Api desenvolvida em python com flask e redis
-- flask db migrate
+- flask db upgrade
 - python app.py
 
 # Documentação 
